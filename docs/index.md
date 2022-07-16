@@ -17,7 +17,8 @@ Experienced Equities Trader working in the business valuations space
 
 `Expected July 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
-
+__Bachelor of Financial Economics__
+__Certificate in Data Science__
 - GPA: 3.88
 - Select Coursework: Accounting, Economics, Business Statistics, Excel & VBA, Python, MySQL Databases, Professional Writing
 
@@ -57,12 +58,18 @@ __The Church of Jesus Christ of Latter-day Saints__, Colombia
 -	Led 20+ full-time volunteers, coordinated trainings, and organized service projects
 
 ## Skills & Interests
-#### Computer: 	Python, SQL, VBA, Excel, PowerPoint, Power BI (beginner)
-#### Skills: 		Financial Analysis, Market Research, Equity Research
-#### Courses: 	  Bloomberg Market Concepts; Python for Data Science; Algorithmic Trading and Models
-#### Awards: 	  Thomas E. Ricks Academic Scholarship, Eagle Scout, Six Sigma White Belt
-#### Languages:	Fluent in Spanish
-#### Interests: 	Investing, Equities and Options Trading, Programming, Geology, Cooking
+#### Computer: 	
+##### Python, SQL, VBA, Excel, PowerPoint, Power BI (beginner)
+#### Skills: 		
+##### Financial Analysis, Market Research, Equity Research
+#### Courses: 	  
+##### Bloomberg Market Concepts; Python for Data Science; Algorithmic Trading and Models
+#### Awards: 	  
+##### Thomas E. Ricks Academic Scholarship, Eagle Scout, Six Sigma White Belt
+#### Languages:	
+##### Fluent in Spanish
+#### Interests: 	
+##### Investing, Equities and Options Trading, Programming, Geology, Cooking
 
 
 
